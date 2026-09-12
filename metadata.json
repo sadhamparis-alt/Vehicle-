@@ -1,0 +1,7 @@
+{
+  "name": "Vehicle Expense & Maintenance Management System",
+  "description": "A scalable, secure Vehicle Expense, Maintenance, and Reminder Management System powered by Firebase Firestore and Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
